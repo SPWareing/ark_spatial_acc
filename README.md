@@ -22,5 +22,5 @@ For example
 
 ### To do
 - [] Add Sample CSV
-- [] Add startup.py example
+- [x] Add startup.py example
 - [] add point functionality
