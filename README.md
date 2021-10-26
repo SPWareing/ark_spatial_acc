@@ -24,3 +24,5 @@ For example
 - [] Add Sample CSV
 - [x] Add startup.py example
 - [] add point functionality
+
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
